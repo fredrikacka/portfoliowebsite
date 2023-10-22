@@ -83,8 +83,7 @@ export const Banner = () => {
                     As a student pursuing my Master's degree in Software
                     Engineering at Kennesaw State University, I am eager to
                     embark on the next chapter of my journey as a skilled
-                    software engineer. Being an international student on a F-1
-                    Visa, I am determined to secure a rewarding position in the
+                    software engineer. I am determined to secure a rewarding position in the
                     field upon my graduation in December 2023. With extensive
                     experience in utilizing a diverse range of tools, including
                     Java, Springboot, SQL, Javascript, React.JS, CSS, and HTML,
