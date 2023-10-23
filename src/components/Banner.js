@@ -87,7 +87,7 @@ export const Banner = () => {
                     field upon my graduation in December 2023. With extensive
                     experience in utilizing a diverse range of tools, including
                     Java, Springboot, SQL, Javascript, React.JS, CSS, and HTML,
-                    I am confident in my ability to thrive in any software
+                    I am confident in my ability to thrive in an entry-level software
                     engineering role.
                   </p>
                   {/*   <button onClick={() => console.log("connect")}>
